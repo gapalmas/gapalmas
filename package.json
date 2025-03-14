@@ -1,0 +1,21 @@
+{
+  "name": "gapalmas",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi 👋, I'm Guillermo Palma</h1>\r <h3 align=\"center\">A passionate developer from México</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gapalmas/gapalmas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gapalmas/gapalmas/issues"
+  },
+  "homepage": "https://github.com/gapalmas/gapalmas#readme"
+}
