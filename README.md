@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guillermo Palma</h1>
 <h3 align="center">A passionate developer </> from México</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gapalmas" alt="gapalmas" /></a> </p> -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guillermo-alberto-palma-solano-a575132bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermo-alberto-palma-solano-a575132bb" height="30" width="40" /></a>
@@ -140,7 +138,7 @@
 
 
 ### Tools  
-
+<p align="left">
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -178,15 +176,9 @@
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
   </a> 
-
-
 </p>
-
---- 
-
-## Devices / Manufacturers
+### Devices / Manufacturers
 <p align="left">
-
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/cisco.svg" alt="cisco" style="vertical-align:top; margin:6px 4px">
   </a>   
@@ -203,10 +195,11 @@
 
 
 
-<h3 align="left">Support:</h3>
+## Support
 <p><a href="https://www.buymeacoffee.com/gapalmas_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gapalmas_" /></a><a href="https://ko-fi.com/gapalmas_"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gapalmas_" /></a></p><br><br>
 
-<h3 align="left">Languages useds:</h3>
+
+## Languages useds:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gapalmas&show_icons=true&locale=en&layout=compact" alt="gapalmas" /></p>
 
 
