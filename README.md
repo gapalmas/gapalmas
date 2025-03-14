@@ -75,6 +75,7 @@
 
 
 ### Misc
+
 <p align="left">
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
@@ -96,6 +97,7 @@
 </p>
 
 ### Services 
+
 <p align="left">
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
@@ -138,6 +140,7 @@
 
 
 ### Tools  
+
 <p align="left">
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
@@ -177,7 +180,9 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
   </a> 
 </p>
+
 ### Devices / Manufacturers
+
 <p align="left">
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/cisco.svg" alt="cisco" style="vertical-align:top; margin:6px 4px">
@@ -196,10 +201,12 @@
 
 
 ## Support
+
 <p><a href="https://www.buymeacoffee.com/gapalmas_"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gapalmas_" /></a><a href="https://ko-fi.com/gapalmas_"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gapalmas_" /></a></p><br><br>
 
 
 ## Languages useds:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gapalmas&show_icons=true&locale=en&layout=compact" alt="gapalmas" /></p>
 
 
