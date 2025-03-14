@@ -80,39 +80,16 @@
 <p align="left">
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:6px 4px">
-  </a>  
+  </a>
 
    <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
   </a>  
 
    <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/firefox.svg" alt="firefox" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-   <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
-  </a>  
 
    <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
@@ -163,10 +140,6 @@
 
 
 ### Tools  
-<p align="left">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
-  </a> 
 
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
@@ -175,15 +148,6 @@
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   </a> 
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_datalore.svg" alt="jetbrains_datalore" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_goland.svg" alt="jetbrains_goland" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
 
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
